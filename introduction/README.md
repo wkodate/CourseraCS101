@@ -1,8 +1,8 @@
 # Introduction
 
-https://class.coursera.org/cs101-selfservice/wiki/view?page=code-1
-
 ### Introduction to Computing Principles
+
+https://class.coursera.org/cs101-selfservice/wiki/view?page=code-1
 
 ##### Fundamental Equation of Computers
 
@@ -37,6 +37,8 @@ https://class.coursera.org/cs101-selfservice/wiki/view?page=code-1
 * コンピュータができることをプログラマがコードにブレークダウンする
 
 ### Variable
+
+https://class.coursera.org/cs101-selfservice/wiki/view?page=code-2
 
 ##### Variables and =
 
