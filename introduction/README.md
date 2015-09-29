@@ -4,7 +4,7 @@
 
 ##### Fundamental Equation of Computers
 
-**Computer = Powerful + Stupid**
+``Computer = Powerful + Stupid``
 
 * Powerful = データの集約を見る
   * 数十億のオペレーションを秒単位で高速に処理
