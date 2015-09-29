@@ -1,5 +1,7 @@
 # Introduction
 
+https://class.coursera.org/cs101-selfservice/wiki/view?page=code-1
+
 ### Introduction to Computing Principles
 
 ##### Fundamental Equation of Computers
