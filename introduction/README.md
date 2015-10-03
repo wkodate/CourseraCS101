@@ -2,9 +2,11 @@
 
 ### Introduction to Computing Principles
 
+https://class.coursera.org/cs101-selfservice/wiki/view?page=code-1
+
 ##### Fundamental Equation of Computers
 
-**Computer = Powerful + Stupid**
+``Computer = Powerful + Stupid``
 
 * Powerful = データの集約を見る
   * 数十億のオペレーションを秒単位で高速に処理
@@ -35,6 +37,8 @@
 * コンピュータができることをプログラマがコードにブレークダウンする
 
 ### Variable
+
+https://class.coursera.org/cs101-selfservice/wiki/view?page=code-2
 
 ##### Variables and =
 
