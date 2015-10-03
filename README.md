@@ -1,5 +1,7 @@
 # CourseraCS101
 
+https://www.coursera.org/course/cs101
+
 ### Course Syllabus
 
 * The nature of computers and code, what they can and cannot do
